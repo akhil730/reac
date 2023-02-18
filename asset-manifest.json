@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/reac/static/css/main.db9d25bc.css",
+    "main.js": "/reac/static/js/main.38d10368.js",
+    "static/media/Image.JPG": "/reac/static/media/Image.c48bfe7bb3408344770d.JPG",
+    "static/media/contactUs.jpg": "/reac/static/media/contactUs.374d95c68f825a5114ac.jpg",
+    "static/media/weddi.jpg": "/reac/static/media/weddi.8b202de4c7ff155cda48.jpg",
+    "static/media/Image1.png": "/reac/static/media/Image1.e4d65fd59ee200b13008.png",
+    "static/media/logo.png": "/reac/static/media/logo.28d9f0e0b56a4c5bc11a.png",
+    "index.html": "/reac/index.html",
+    "main.db9d25bc.css.map": "/reac/static/css/main.db9d25bc.css.map",
+    "main.38d10368.js.map": "/reac/static/js/main.38d10368.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db9d25bc.css",
+    "static/js/main.38d10368.js"
+  ]
+}
